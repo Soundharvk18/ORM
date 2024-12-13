@@ -40,6 +40,9 @@ admin.site.register(Bankloan,LoanAdmin)
 
 ```
 # OUTPUT
+ER diagram
+![Screenshot 2024-12-13 190415](https://github.com/user-attachments/assets/76e1747e-ce1c-4dbe-a5c2-c54d92318d84)
+
 Include the screenshot of your admin page.
 ![users](https://github.com/user-attachments/assets/a346010c-17c8-4a68-8b17-ef748606b3cd)
 ![customers](https://github.com/user-attachments/assets/5bbb9c16-e4b8-4a1e-a6d1-dc5b7d388015)
